@@ -1,3 +1,3 @@
 # Collect tweets using the "Tweet_Collect_Crypto" notebook
 # Analyse sentiments  using the "Tweet_Polarity_Crypto" notebook (use cleaned tweet data from the previous notebook)
-# Predict prices using the "LSTM" notebook
+# Predict prices using the "LSTM" notebook (dataset- BTC_USD.csv)
